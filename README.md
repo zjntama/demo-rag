@@ -1,6 +1,5 @@
-# RAG Application với SQL Server T-SQL
-
-Ứng dụng RAG (Retrieval-Augmented Generation) để trả lời câu hỏi về SQL Server T-SQL sử dụng LangChain và Ollama.
+# Build a rag app using ollama and langchain
+Ứng dụng RAG (Retrieval-Augmented Generation) để trả lời câu hỏi sử dụng LangChain và Ollama.
 
 ## Cài đặt
 
