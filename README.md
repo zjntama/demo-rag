@@ -32,7 +32,8 @@ ollama pull llama3
 ## Sử dụng
 
 1. **Chuẩn bị dữ liệu:**
-   - Đặt file PDF "SQL Server 2012 T-SQL Recipes.pdf" vào thư mục `data/`
+   - Download file https://download.microsoft.com/download/f/f/6/ff62cae0-ce38-4228-9025-fbf729312698/microsoft_press_ebook_introducing_microsoft_sql_server_2012_pdf.pdf
+   - Đặt file PDF "microsoft_press_ebook_introducing_microsoft_sql_server_2012_pdf.pdf" vào thư mục `data/`
 
 2. **Chạy ứng dụng:**
 ```bash

@@ -11,7 +11,7 @@ import os
 
 def ingest():
     # Get the doc
-    loader = PyPDFLoader("data/SQL Server 2012 T-SQL Recipes.pdf")
+    loader = PyPDFLoader("data/microsoft_press_ebook_introducing_microsoft_sql_server_2012_pdf.pdf")
     pages = loader.load_and_split()
     # Split the pages by char
     text_splitter = RecursiveCharacterTextSplitter(
